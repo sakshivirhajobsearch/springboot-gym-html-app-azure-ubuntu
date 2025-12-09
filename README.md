@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Azure, CSS, Dockerfile, HTML, Java, Machine Learning, Spring Boot
+- **Detected Technologies:** Java (Maven/Gradle), Spring Boot, Docker, Kubernetes / K8s, Azure
 - **GitHub Topics:** None
 
 ---
